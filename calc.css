@@ -1,0 +1,54 @@
+html {
+  background-color: gray;
+}
+.container{
+  display: flex;
+ 
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+.sub-container {
+  width: 25rem;
+  height: 30rem;
+  margin: 0 auto;
+  background-color: white;
+  border-radius: 20px;
+  
+}
+.sub-container table tr td {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+  
+  
+}
+table{
+  margin: 1rem 0rem 0rem 2.8rem;
+  
+
+}
+#tela {
+  font-size: 30px;
+  width: 20rem;
+  height: 4rem;
+  margin-left: 2.2rem;
+  border-radius: 20px;
+  margin-top: 1.8rem;
+  background: #f3f3f3;
+  border: none;
+}
+.button {
+  display: flex;
+  width: 60px;
+  height: 50px;
+  font-size: 30px;
+  margin: 3px;
+  border-radius: 8px;
+  background-color: #2926d9;
+  color: white;
+  box-shadow: #dadada 4px 4px ;
+  
+  padding: 4px 10px;
+  margin-right: 0.8rem;
+}
+
